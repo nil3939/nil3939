@@ -201,16 +201,6 @@ My current research interests are focused on the intersection of **Artificial In
 
 ---
 
-# 🧠 Problem Solving
-
-I use programming and algorithmic problem solving to strengthen my computational thinking and coding fundamentals.
-
-**Areas I practice:**
-
-`Data Structures` · `Algorithms` · `Graph Algorithms` · `Dynamic Programming` · `Problem Solving` · `Competitive Programming`
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -293,13 +283,3 @@ I use programming and algorithmic problem solving to strengthen my computational
 </div>
 
 ---
-
-<div align="center">
-
-### 💻 Building Today · 🔬 Researching Tomorrow
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=nil3939&label=Profile%20Views&style=flat" alt="Profile Views"/>
-
-</div>
