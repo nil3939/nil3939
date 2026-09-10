@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rudra Arindom Niloy
+#  Rudra Arindom Niloy
 
 ### Computer Science Student · Software Developer · AI & Cybersecurity · Research Enthusiast
 
@@ -277,19 +277,6 @@ I use programming and algorithmic problem solving to strengthen my computational
 
 ---
 
-# 🎯 2026 Goals
-
-* [ ] Strengthen Data Structures & Algorithms
-* [ ] Build production-ready full-stack applications
-* [ ] Improve AI/ML knowledge
-* [ ] Deepen cybersecurity knowledge
-* [ ] Complete an AI/cybersecurity research project
-* [ ] Publish my first research paper
-* [ ] Contribute to open-source projects
-* [ ] Improve technical writing
-* [ ] Build a stronger GitHub portfolio
-
----
 
 # 🤝 Let's Connect
 
