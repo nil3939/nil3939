@@ -216,11 +216,11 @@ I use programming and algorithmic problem solving to strengthen my computational
 <div align="center">
 
 <a href="https://github.com/nil3939">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nil3939&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=nil3939&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/nil3939">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nil3939&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nil3939&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
 </a>
 
 </div>
@@ -241,7 +241,7 @@ I use programming and algorithmic problem solving to strengthen my computational
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nil3939&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<img width="100%" src="https://github.com/nil3939/nil3939/blob/output/activity-graph.svg" alt="GitHub Activity Graph"/>
 
 </div>
 
