@@ -114,7 +114,7 @@ A responsive e-commerce project focused on modern UI/UX and an intuitive shoppin
 
 ---
 
-## 🔐 Zero-Day Attack Detection
+## Zero-Day Attack Detection
 
 **Open-World Learning for Cybersecurity**
 
@@ -125,7 +125,7 @@ A research-oriented project exploring the detection of previously unseen cyber a
 
 ---
 
-## 📂 Explore More Projects
+##  Explore More Projects
 
 <a href="https://github.com/nil3939?tab=repositories">
   <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
@@ -133,7 +133,7 @@ A research-oriented project exploring the detection of previously unseen cyber a
 
 ---
 
-# 🔬 Research Interests
+#  Research Interests
 
 My current research interests are focused on the intersection of **Artificial Intelligence and Cybersecurity**.
 
@@ -149,13 +149,13 @@ My current research interests are focused on the intersection of **Artificial In
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Artificial Intelligence
+###  Artificial Intelligence
 
 * Machine Learning
 * Deep Learning
@@ -165,7 +165,7 @@ My current research interests are focused on the intersection of **Artificial In
 </td>
 <td width="50%">
 
-### 🔐 Cybersecurity
+###  Cybersecurity
 
 * Network Security
 * Intrusion Detection
@@ -178,7 +178,7 @@ My current research interests are focused on the intersection of **Artificial In
 <tr>
 <td width="50%">
 
-### 💻 Software Engineering
+###  Software Engineering
 
 * Full-Stack Development
 * Backend Development
@@ -188,7 +188,7 @@ My current research interests are focused on the intersection of **Artificial In
 </td>
 <td width="50%">
 
-### 🔬 Research
+###  Research
 
 * Literature Review
 * Experiment Design
@@ -201,7 +201,7 @@ My current research interests are focused on the intersection of **Artificial In
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -217,7 +217,7 @@ My current research interests are focused on the intersection of **Artificial In
 
 ---
 
-# 🔥 Contribution Streak
+# Contribution Streak
 
 <div align="center">
 
@@ -237,7 +237,7 @@ My current research interests are focused on the intersection of **Artificial In
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
@@ -247,7 +247,7 @@ My current research interests are focused on the intersection of **Artificial In
 
 ---
 
-# 📌 GitHub Overview
+# GitHub Overview
 
 <div align="center">
 
@@ -268,7 +268,7 @@ My current research interests are focused on the intersection of **Artificial In
 ---
 
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 <div align="center">
 
