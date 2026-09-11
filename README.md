@@ -227,7 +227,7 @@ My current research interests are focused on the intersection of **Artificial In
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
