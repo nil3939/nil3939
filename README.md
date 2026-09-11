@@ -88,7 +88,7 @@ I'm a **Computer Science & Engineering student** interested in building practica
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🌊 ResQ Bangladesh
 
