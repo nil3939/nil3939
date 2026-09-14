@@ -209,10 +209,6 @@ My current research interests are focused on the intersection of **Artificial In
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=nil3939&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 </a>
 
-<a href="https://github.com/nil3939">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nil3939&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
-</a>
-
 </div>
 
 ---
