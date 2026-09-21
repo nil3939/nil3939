@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Computer Science & Engineering student** interested in building practical software, exploring emerging technologies, and developing my skills in research.
 
@@ -47,9 +47,9 @@ I'm a **Computer Science & Engineering student** interested in building practica
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 💻 Programming Languages
+##  Programming Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
@@ -58,7 +58,7 @@ I'm a **Computer Science & Engineering student** interested in building practica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
 </p>
 
-## 🌐 Frontend Development
+##  Frontend Development
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
@@ -67,7 +67,7 @@ I'm a **Computer Science & Engineering student** interested in building practica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
-## ⚙️ Backend & Database
+##  Backend & Database
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
@@ -76,20 +76,29 @@ I'm a **Computer Science & Engineering student** interested in building practica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
 </p>
 
-## 🔧 Tools & Platforms
+##  AI & Data Science
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+</p>
+
+##  Tools & Platforms
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" height="45" alt="Vercel"/>
 </p>
 
----
 
 #  Featured Projects
 
-## 🌊 ResQ Bangladesh
+##  ResQ Bangladesh
 
 **Emergency & Disaster Response Platform**
 
@@ -100,7 +109,7 @@ A full-stack platform designed to support citizens, volunteers, NGOs, and admini
 
 ---
 
-## 🛒 Kutir Mart
+##  Kutir Mart
 
 **E-Commerce Web Application**
 
