@@ -145,15 +145,15 @@ A research-oriented project exploring the detection of previously unseen cyber a
 
 My current research interests are focused on the intersection of **Artificial Intelligence and Cybersecurity**.
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🔐 Cybersecurity
-* 🌐 Network Security
-* 🛡️ Intrusion Detection Systems
-* 🚨 Zero-Day Attack Detection
-* 🔎 Open-World Learning
-* 📊 Anomaly Detection
-* ⚙️ Software Engineering
+*  Artificial Intelligence
+*  Machine Learning
+*  Cybersecurity
+*  Network Security
+*  Intrusion Detection Systems
+*  Zero-Day Attack Detection
+*  Open-World Learning
+*  Anomaly Detection
+*  Software Engineering
 
 ---
 
