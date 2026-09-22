@@ -95,7 +95,13 @@ I'm a **Computer Science & Engineering student** interested in building practica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" height="45" alt="Vercel"/>
 </p>
 
+# Most Used Languages
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nil3939&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+
+</div>
 #  Featured Projects
 
 ##  ResQ Bangladesh
